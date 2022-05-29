@@ -1,0 +1,8 @@
+numba
+numpy
+scipy
+torch
+tntorch
+tngames
+maplotlib
+itertools
